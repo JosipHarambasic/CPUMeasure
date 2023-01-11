@@ -26,7 +26,7 @@ print(memory)
 
 plt.plot(c, label="CPU")
 plt.plot(memory, label="Memory")
-plt.xlabel("second")
+plt.xlabel("seconds")
 plt.legend()
 plt.ylabel("CPU usage of all 4 Cores")
 plt.savefig("plotCPUUsage.png")
