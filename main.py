@@ -5,24 +5,28 @@ import matplotlib.pyplot as plt
 import psutil
 from psutil import cpu_percent
 
+file = open("data.txt", "r")
+mem = open("memory.txt", "r")
+a = []
+for i in file:
+    a.append(i.strip()[24:30])
+c = []
+for i in a[1:-1]:
+    c.append(float(i.replace(" ", "")))
+#print(c)
 
-cpu_usage = []
-memory_usage = []
-while True:
-    if len(cpu_usage) > 100:
-        break
-    cpu_usage.append(cpu_percent(0.1)/100)
-    memory_usage.append(psutil.virtual_memory().percent/100)
-    time.sleep(0.1)
+m =[]
+for i in mem:
+    m.append(i.strip()[36:41])
+memory = []
 
-plt.plot(cpu_usage, label="CPU Usage")
-plt.plot(memory_usage, label="Memory Usage")
-plt.ylabel('Percentage %')
-plt.xlabel('Timestamps in 0.1s steps')
+for i in m[1:-1]:
+    memory.append(float(i))
+print(memory)
+
+plt.plot(c, label="CPU")
+plt.plot(memory, label="Memory")
+plt.xlabel("second")
 plt.legend()
-
-# save
-strFile = "plotCPUandMemoryUsage.png"
-if os.path.isfile(strFile):
-    os.remove(strFile)
-plt.savefig("plotCPUandMemoryUsage")
+plt.ylabel("CPU usage of all 4 Cores")
+plt.savefig("plotCPUUsage.png")
