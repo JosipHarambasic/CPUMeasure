@@ -32,5 +32,5 @@ plt.axvline(x=25, linestyle="dashed", color="purple",ymax=0.97, label="network t
 plt.axvline(x=85, linestyle="dashed", color="green", ymax=0.97, label="attack killed")
 plt.xlabel("seconds")
 plt.legend()
-plt.ylabel("CPU usage of all 4 Cores")
+plt.ylabel("All CPU's and Memory usage in %")
 plt.savefig("plotCPUUsage.png")
