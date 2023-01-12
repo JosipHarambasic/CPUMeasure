@@ -25,6 +25,7 @@ for i in m[1:-1]:
 print(memory)
 
 plt.plot(c, label="CPU")
+plt.title("Performance measure")
 plt.plot(memory, label="Memory")
 plt.axvline(x=15, linestyle="dashed", color="red", ymax=0.97, label="start attack")
 plt.axvline(x=25, linestyle="dashed", color="purple",ymax=0.97, label="network tracking")
