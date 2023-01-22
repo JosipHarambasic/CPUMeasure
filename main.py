@@ -27,7 +27,7 @@ upxmr,downxmr,upsensor,downsensor = Parser("nethogs.txt").parse()
 
 
 #plt.plot(memory, label="Sent KB/s")
-plt.title("Network Usage")
+plt.title("Network Usage Difference between Sensor and XMRig")
 plt.plot(upxmr, label="XMRig upload KB/s")
 plt.plot(downxmr, label="XMRig download KB/s")
 plt.plot(upsensor, label="Sensor upload KB/s")
