@@ -29,7 +29,7 @@ class Parser:
                     index += 1
                 if len(i) > 1:
                     file = (" ".join(i.split()).split(" ")[::-1])
-                    if not file[2].startswith("es_sensor"):
+                    if file[2].startswith("es_sensor"):
                         uploadxmrig+= float(file[1])
                         downloadxmrig+= float(file[0])
 
