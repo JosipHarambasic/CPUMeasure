@@ -32,19 +32,19 @@ mem1 = [51.44, 51.44, 51.43, 51.43, 51.44, 51.42, 51.42, 51.44, 51.55, 51.55, 51
 #do = [462.0, 1518.0, 2803.0, 3859.0, 4981.0, 6103.0, 7225.0, 8347.0, 9469.0, 10591.0, 11581.0, 12769.0, 14124.0, 15258.0, 16380.0, 17502.0, 18624.0, 19812.0, 21056.0, 22178.0, 23234.0, 24977.0, 26460.0, 27516.0, 28638.0, 29694.0, 31756.0, 32878.0, 34066.0, 35122.0, 36178.0, 37366.0, 38721.0, 39975.0, 41031.0, 42153.0, 43275.0, 44331.0, 45773.0, 47265.0, 48453.0, 49575.0, 50662.0, 51718.0, 52906.0, 54094.0, 55216.0, 57673.0, 59213.0, 60335.0, 61457.0, 62645.0, 64000.0, 64990.0, 66178.0, 67366.0, 68488.0, 69138.0, 69326.0, 70250.0, 71362.0, 72286.0, 73474.0, 74231.0, 74891.0, 75485.0, 76211.0, 76871.0, 77531.0, 78323.0, 79480.0, 80602.0, 81724.0, 82648.0, 83902.0, 85024.0, 86400.0, 87468.0, 88392.0, 89448.0, 90240.0, 91362.0, 92550.0, 93703.0, 94957.0, 96145.0, 97201.0, 98323.0, 99445.0, 100567.0, 101526.0, 102846.0, 103968.0, 105090.0, 106080.0, 107136.0, 108615.0, 109803.0, 110925.0, 112047.0, 113235.0, 114357.0, 115347.0, 118555.0, 119677.0, 121091.0, 122213.0, 123401.0, 124457.0, 125579.0, 126868.0, 127990.0, 129112.0, 130102.0, 131224.0, 132346.0, 133722.0, 134910.0]
 #upxmr,downxmr,upsensor,downsensor = Parser("nethogs.txt").parse()
 
-avg = 100-76.13
+avg = 51.28
 #plt.plot(memory, label="Sent KB/s")
-plt.title("Performance of CPU with MTD-Framework in Background")
+plt.title("Performance of Memory without MTD-Framework in Background")
 #plt.plot(upxmr, label="XMRig upload KB/s")
 #plt.plot(downxmr, label="XMRig download KB/s")
 #plt.plot(upsensor, label="Sensor upload KB/s")
 #plt.plot(downsensor, label="Sensor download KB/s")
 #plt.axvline(x=20, linestyle="dashed", color="red",ymax=0.97, label="attack started")
 #plt.axvline(x=120, linestyle="dashed", color="green",ymax=0.97, label="attack killed")
-plt.plot(c, label="Total CPU usage in %")
-plt.axhline(y=avg, linestyle="dashed", color="orange", xmin=0.03, xmax=0.97, label="Mean")
+plt.plot(me, label="Total Memory Load in %")
+plt.axhline(y=avg, linestyle="dashed", color="orange", xmin=0.03, xmax=0.97, label=f"Mean {avg}")
 #plt.plot(me, label="Total Memory usage in %")
 plt.xlabel("Seconds")
 plt.legend()
-plt.ylabel("Total CPU Load in %")
-plt.savefig("cpuwithMTD.png")
+plt.ylabel("Total Memory Load in %")
+plt.savefig("memorywithoutMTD.png")
