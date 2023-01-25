@@ -1,0 +1,8 @@
+for the file reconAttackCPUMemorxWithFireWallandSensor, by measuring the mean during the attack and
+not furing the attack 0:20 and 80: the results sho a slight increase of memory usage
+37.929166666666674 out of attack memory usage
+38.11416666666669 during attack memory usage
+
+CPU
+28.168999999999997 out of attack
+26.37616666666667 during attack CPU usage
