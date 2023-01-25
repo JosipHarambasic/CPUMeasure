@@ -6,20 +6,21 @@ class Parser:
         nethogs = open(self.collectedDataFile, "r")
 
         parsedFile = []
-        uploadxmrig = []
+        uploadxmrig = 0
         uploadsensor = []
-        downloadxmrig = []
+        downloadxmrig = 0
         downloadsnesor = []
-        counter = 0
+        counter = 1
         ind = 0
         id = 0
         for i in nethogs:
             index = 0
             if i.startswith("Refreshing:"):
-                if len(uploadxmrig) < counter:
-                    uploadxmrig.append(0)
-                    downloadxmrig.append(0)
                 counter += 1
+                uploadsensor.append(uploadxmrig)
+                downloadsnesor.append(downloadxmrig)
+                uploadxmrig = 0
+                downloadxmrig = 0
             if not i.startswith("Refreshing:"):
                 for j in i:
                     if j.isalpha():
@@ -28,12 +29,8 @@ class Parser:
                     index += 1
                 if len(i) > 1:
                     file = (" ".join(i.split()).split(" ")[::-1])
-
-                    if file[2].startswith("es_sensor"):
-                        uploadsensor.append(float(file[1]))
-                        downloadsnesor.append(float(file[0]))
-                    if file[2].startswith("xmrig"):
-                        uploadxmrig.append(float(file[1]))
-                        downloadxmrig.append(float(file[0]))
+                    if not file[2].startswith("es_sensor"):
+                        uploadxmrig+= float(file[1])
+                        downloadxmrig+= float(file[0])
 
         return uploadxmrig, downloadxmrig, uploadsensor, downloadsnesor
