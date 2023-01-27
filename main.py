@@ -61,6 +61,7 @@ plt.title("Network usage of Attack during MAC-address change")
 #plt.plot(downsensor, label="Sensor download KB/s")
 plt.axvline(x=10, linestyle="dashed", color="red",ymax=0.97, label="start Cryptojacker")
 plt.axvline(x=40, linestyle="dashed", color="green",ymax=0.97, label="change MAC address")
+plt.axvline(x=67, linestyle="dashed", color="black",ymax=0.97, label="connection established")
 #plt.axvline(x=80, linestyle="dashed", color="green",ymax=0.97, label="killed Cryptojacker")
 
 #plt.plot(me, label="Total Memory Load in %")
