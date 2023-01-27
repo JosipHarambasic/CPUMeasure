@@ -1,945 +1,1926 @@
 Refreshing:
-es_sensor/4309/0	3.62461	0.193359
-/usr/share/electrosense/bin/webrtc/855/1001	0.0462891	0.0257812
+/usr/share/electrosense/bin/webrtc/29349/1001	0.0462891	0.0128906
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	7.65195	0.399609
-/usr/share/electrosense/bin/webrtc/855/1001	0.0925781	0.0515625
-sshd: root@pts/1/18379/0	0.132422	0.0128906
+curl/30352/0	0.394531	0.388477
+/usr/share/electrosense/bin/webrtc/29349/1001	0.0462891	0.0257812
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	11.2766	0.592969
-/usr/share/electrosense/bin/webrtc/855/1001	0.138867	0.0773437
-sshd: root@pts/1/18379/0	0.383594	0.0257812
+curl/30352/0	0.394531	0.388477
+/usr/share/electrosense/bin/webrtc/29349/1001	0.112305	0.0515625
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	14.9012	0.799219
-/usr/share/electrosense/bin/webrtc/855/1001	0.204883	0.12207
-sshd: root@pts/1/18379/0	0.383594	0.0257812
+curl/30352/0	0.394531	0.388477
+/usr/share/electrosense/bin/webrtc/29349/1001	0.185156	0.103125
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	15.1025	0.812109
-curl/6947/0	0.340234	0.343359
-/usr/share/electrosense/bin/webrtc/855/1001	0.204883	0.12207
-sshd: root@pts/1/18379/0	0.616016	0.0386719
+curl/30352/0	0.394531	0.388477
+/usr/share/electrosense/bin/webrtc/29349/1001	0.231445	0.128906
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	15.291	0.812109
-curl/6947/0	0.397852	0.388477
-/usr/share/electrosense/bin/webrtc/855/1001	0.204883	0.12207
-sshd: root@pts/1/18379/0	0.736328	0.0386719
-ssh/4200/1001	0.0359375	0.0183594
+/usr/share/electrosense/bin/webrtc/29349/1001	0.231445	0.128906
+curl/30352/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	15.0896	0.825
-curl/6947/0	0.397852	0.388477
-/usr/share/electrosense/bin/webrtc/855/1001	0.204883	0.12207
-sshd: root@pts/1/18379/0	0.485156	0.0257812
-ssh/4200/1001	0.0359375	0.0183594
+/usr/share/electrosense/bin/webrtc/29349/1001	0.231445	0.128906
+curl/30352/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	18.7143	1.01836
-curl/6947/0	0.397852	0.388477
-/usr/share/electrosense/bin/webrtc/855/1001	0.251172	0.147852
-sshd: root@pts/1/18379/0	0.759766	0.0386719
-ssh/4200/1001	0.0359375	0.0183594
+/usr/share/electrosense/bin/webrtc/29349/1001	0.231445	0.128906
+curl/30352/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	14.8883	0.825
-/usr/share/electrosense/bin/webrtc/855/1001	0.185156	0.103125
-curl/6947/0	0.0705078	0.0845703
-sshd: root@pts/1/18379/0	0.751953	0.0386719
-ssh/4200/1001	0.0359375	0.0183594
+/usr/share/electrosense/bin/webrtc/29349/1001	0.231445	0.128906
+curl/30352/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	14.9012	0.812109
-/usr/share/electrosense/bin/webrtc/855/1001	0.224219	0.135742
-sshd: root@pts/1/18379/0	0.499219	0.0386719
-ssh/4200/1001	0	0
-curl/6947/0	0	0
+/usr/share/electrosense/bin/webrtc/29349/1001	0.185156	0.103125
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0.0785156	0.0496094
+curl/30352/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	18.5258	1.00547
-/usr/share/electrosense/bin/webrtc/855/1001	0.270508	0.161523
-sshd: root@pts/1/18379/0	0.662891	0.0515625
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0.096875	0.0496094
-ssh/4200/1001	0	0
-curl/6947/0	0	0
+/usr/share/electrosense/bin/webrtc/29349/1001	0.231445	0.128906
+./xmrig/30370/0	0.159766	0.121289
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0.0785156	0.0496094
+curl/30352/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	15.1025	0.799219
-/usr/share/electrosense/bin/webrtc/855/1001	0.224219	0.135742
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0.096875	0.0496094
-sshd: root@pts/1/18379/0	0.605078	0.0257812
-ssh/4200/1001	0	0
-curl/6947/0	0	0
+/usr/share/electrosense/bin/webrtc/29349/1001	0.231445	0.128906
+./xmrig/30370/0	0.159766	0.121289
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0.0785156	0.0496094
+curl/30352/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	15.1025	0.812109
-/usr/share/electrosense/bin/webrtc/855/1001	0.224219	0.135742
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0.096875	0.0496094
-sshd: root@pts/1/18379/0	0.380469	0.0257812
-ssh/4200/1001	0	0
-curl/6947/0	0	0
+/usr/share/electrosense/bin/webrtc/29349/1001	0.231445	0.128906
+./xmrig/30370/0	0.159766	0.121289
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0.0785156	0.0496094
+curl/30352/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	18.7271	1.00547
-/usr/share/electrosense/bin/webrtc/855/1001	0.270508	0.161523
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0.096875	0.0496094
-sshd: root@pts/1/18379/0	0.658203	0.0386719
-ssh/4200/1001	0	0
-curl/6947/0	0	0
+/usr/share/electrosense/bin/webrtc/29349/1001	0.283398	0.174414
+./xmrig/30370/0	0.159766	0.121289
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0.0462891	0.0257812
+curl/30352/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	15.3039	0.812109
-/usr/share/electrosense/bin/webrtc/855/1001	0.185156	0.103125
-sshd: root@pts/1/18379/0	0.726953	0.0257812
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0	0
-ssh/4200/1001	0	0
-curl/6947/0	0	0
+/usr/share/electrosense/bin/webrtc/29349/1001	0.290234	0.193359
+./xmrig/30370/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0	0
+curl/30352/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	18.5129	1.00547
-/usr/share/electrosense/bin/webrtc/855/1001	0.231445	0.128906
-sshd: root@pts/1/18379/0	0.726953	0.0386719
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0	0
-ssh/4200/1001	0	0
-curl/6947/0	0	0
+/usr/share/electrosense/bin/webrtc/29349/1001	0.303125	0.193359
+./xmrig/30370/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0	0
+curl/30352/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	18.5129	1.03125
-/usr/share/electrosense/bin/webrtc/855/1001	0.231445	0.128906
-sshd: root@pts/1/18379/0	0.774219	0.0714844
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0	0
-ssh/4200/1001	0	0
-curl/6947/0	0	0
+/usr/share/electrosense/bin/webrtc/29349/1001	0.303125	0.193359
+./xmrig/30370/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0	0
+curl/30352/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	14.6869	0.812109
-/usr/share/electrosense/bin/webrtc/855/1001	0.185156	0.103125
-sshd: root@pts/1/18379/0	0.721094	0.0457031
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0	0
-ssh/4200/1001	0	0
-curl/6947/0	0	0
+/usr/share/electrosense/bin/webrtc/29349/1001	0.251172	0.134961
+./xmrig/30370/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0	0
+curl/30352/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	15.291	0.850781
-/usr/share/electrosense/bin/webrtc/855/1001	0.185156	0.103125
-sshd: root@pts/1/18379/0	0.488672	0.0585938
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0	0
-ssh/4200/1001	0	0
-curl/6947/0	0	0
+/usr/share/electrosense/bin/webrtc/29349/1001	0.251172	0.147852
+./xmrig/30370/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0	0
+curl/30352/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	18.5129	1.01836
-/usr/share/electrosense/bin/webrtc/855/1001	0.231445	0.128906
-sshd: root@pts/1/18379/0	0.728516	0.0714844
-./xmrig/6985/0	0.0144531	0
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0	0
-ssh/4200/1001	0	0
-curl/6947/0	0	0
+/usr/share/electrosense/bin/webrtc/29349/1001	0.231445	0.116016
+./xmrig/30370/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0	0
+curl/30352/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	13.693	0.760547
-./xmrig/6985/0	0.159766	0.121289
-/usr/share/electrosense/bin/webrtc/855/1001	0.185156	0.103125
-sshd: root@pts/1/18379/0	0.871094	0.0644531
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0	0
-ssh/4200/1001	0	0
-curl/6947/0	0	0
+/usr/share/electrosense/bin/webrtc/29349/1001	0.231445	0.128906
+./xmrig/30370/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0	0
+curl/30352/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	13.693	0.786328
-./xmrig/6985/0	0.159766	0.121289
-/usr/share/electrosense/bin/webrtc/855/1001	0.185156	0.103125
-sshd: root@pts/1/18379/0	0.646484	0.0902344
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0	0
-ssh/4200/1001	0	0
-curl/6947/0	0	0
+/usr/share/electrosense/bin/webrtc/29349/1001	0.231445	0.128906
+./xmrig/30370/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0	0
+curl/30352/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	16.9148	0.953906
-/usr/share/electrosense/bin/webrtc/855/1001	0.231445	0.128906
-./xmrig/6985/0	0.159766	0.121289
-sshd: root@pts/1/18379/0	0.908594	0.103125
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0	0
-ssh/4200/1001	0	0
-curl/6947/0	0	0
+/usr/share/electrosense/bin/webrtc/29349/1001	0.231445	0.128906
+./xmrig/30370/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0	0
+curl/30352/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	16.7135	0.966797
-/usr/share/electrosense/bin/webrtc/855/1001	0.251172	0.147852
-./xmrig/6985/0	0.159766	0.121289
-sshd: root@pts/1/18379/0	0.908594	0.0902344
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0	0
-ssh/4200/1001	0	0
-curl/6947/0	0	0
+/usr/share/electrosense/bin/webrtc/29349/1001	0.231445	0.128906
+./xmrig/30370/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0	0
+curl/30352/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	14.6998	0.812109
-/usr/share/electrosense/bin/webrtc/855/1001	0.204883	0.12207
-sshd: root@pts/1/18379/0	0.519531	0.0515625
-./xmrig/6985/0	0	0
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0	0
-ssh/4200/1001	0	0
-curl/6947/0	0	0
+/usr/share/electrosense/bin/webrtc/29349/1001	0.231445	0.128906
+./xmrig/30370/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0	0
+curl/30352/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	14.9012	0.799219
-/usr/share/electrosense/bin/webrtc/855/1001	0.204883	0.12207
-sshd: root@pts/1/18379/0	0.705078	0.0386719
-./xmrig/6985/0	0	0
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0	0
-ssh/4200/1001	0	0
-curl/6947/0	0	0
+/usr/share/electrosense/bin/webrtc/29349/1001	0.231445	0.128906
+./xmrig/30370/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0	0
+curl/30352/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	18.3244	0.992578
-/usr/share/electrosense/bin/webrtc/855/1001	0.251172	0.147852
-sshd: root@pts/1/18379/0	0.705078	0.0386719
-./xmrig/6985/0	0	0
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0	0
-ssh/4200/1001	0	0
-curl/6947/0	0	0
+/usr/share/electrosense/bin/webrtc/29349/1001	0.231445	0.128906
+./xmrig/30370/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0	0
+curl/30352/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	18.123	0.979688
-/usr/share/electrosense/bin/webrtc/855/1001	0.251172	0.147852
-sshd: root@pts/1/18379/0	0.642578	0.0386719
-./xmrig/6985/0	0	0
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0	0
-ssh/4200/1001	0	0
-curl/6947/0	0	0
+/usr/share/electrosense/bin/webrtc/29349/1001	0.231445	0.116016
+./xmrig/30370/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0	0
+curl/30352/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	14.9012	0.799219
-/usr/share/electrosense/bin/webrtc/855/1001	0.185156	0.103125
-sshd: root@pts/1/18379/0	0.620703	0.0386719
-./xmrig/6985/0	0	0
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0	0
-ssh/4200/1001	0	0
-curl/6947/0	0	0
+/usr/share/electrosense/bin/webrtc/29349/1001	0.231445	0.128906
+./xmrig/30370/0	0.0128906	0.0855469
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0	0
+curl/30352/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	14.9012	0.799219
-/usr/share/electrosense/bin/webrtc/855/1001	0.237109	0.148633
-sshd: root@pts/1/18379/0	0.435156	0.0257812
-./xmrig/6985/0	0	0
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0	0
-ssh/4200/1001	0	0
-curl/6947/0	0	0
+/usr/share/electrosense/bin/webrtc/29349/1001	0.185156	0.103125
+./xmrig/30370/0	0.0128906	0.0855469
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0.0785156	0.0496094
+curl/30352/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	14.9012	0.799219
-/usr/share/electrosense/bin/webrtc/855/1001	0.237109	0.148633
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0.096875	0.0496094
-sshd: root@pts/1/18379/0	0.658203	0.0386719
-./xmrig/6985/0	0	0
-ssh/4200/1001	0	0
-curl/6947/0	0	0
+/usr/share/electrosense/bin/webrtc/29349/1001	0.204883	0.103125
+./xmrig/30370/0	0.0128906	0.0855469
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0.0785156	0.0496094
+curl/30352/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	14.9012	0.799219
-/usr/share/electrosense/bin/webrtc/855/1001	0.237109	0.148633
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0.096875	0.0496094
-sshd: root@pts/1/18379/0	0.709766	0.0386719
-./xmrig/6985/0	0	0
-ssh/4200/1001	0	0
-curl/6947/0	0	0
+/usr/share/electrosense/bin/webrtc/29349/1001	0.231445	0.128906
+./xmrig/30370/0	0.0128906	0.0855469
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0.0785156	0.0496094
+curl/30352/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	18.5258	0.992578
-/usr/share/electrosense/bin/webrtc/855/1001	0.283398	0.174414
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0.096875	0.0496094
-sshd: root@pts/1/18379/0	0.709766	0.0386719
-./xmrig/6985/0	0	0
-ssh/4200/1001	0	0
-curl/6947/0	0	0
+/usr/share/electrosense/bin/webrtc/29349/1001	0.231445	0.128906
+./xmrig/30370/0	0.0128906	0.0855469
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0.0785156	0.0496094
+curl/30352/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	18.5258	0.992578
-/usr/share/electrosense/bin/webrtc/855/1001	0.283398	0.174414
-sshd: root@pts/1/18379/0	0.722266	0.0515625
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0.096875	0.0496094
-./xmrig/6985/0	0	0
-ssh/4200/1001	0	0
-curl/6947/0	0	0
+/usr/share/electrosense/bin/webrtc/29349/1001	0.283398	0.174414
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0.0462891	0.0257812
+./xmrig/30370/0	0	0
+curl/30352/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	18.3244	0.992578
-/usr/share/electrosense/bin/webrtc/855/1001	0.231445	0.128906
-./xmrig/6985/0	0.0128906	0.0855469
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0.096875	0.0496094
-sshd: root@pts/1/18379/0	0.903125	0.0386719
-ssh/4200/1001	0	0
-curl/6947/0	0	0
+/usr/share/electrosense/bin/webrtc/29349/1001	0.303125	0.193359
+./xmrig/30370/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0	0
+curl/30352/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	14.4855	0.773438
-/usr/share/electrosense/bin/webrtc/855/1001	0.185156	0.103125
-./xmrig/6985/0	0.0128906	0.0855469
-sshd: root@pts/1/18379/0	0.428906	0.0386719
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0	0
-ssh/4200/1001	0	0
-curl/6947/0	0	0
+/usr/share/electrosense/bin/webrtc/29349/1001	0.303125	0.193359
+./xmrig/30370/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0	0
+curl/30352/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	14.4855	0.799219
-/usr/share/electrosense/bin/webrtc/855/1001	0.185156	0.103125
-./xmrig/6985/0	0.0128906	0.0855469
-sshd: root@pts/1/18379/0	0.655078	0.0386719
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0	0
-ssh/4200/1001	0	0
-curl/6947/0	0	0
+/usr/share/electrosense/bin/webrtc/29349/1001	0.256836	0.167578
+ssh/28428/1001	0.0230469	0.03125
+./xmrig/30370/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0	0
+curl/30352/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	14.6869	0.799219
-/usr/share/electrosense/bin/webrtc/855/1001	0.185156	0.103125
-./xmrig/6985/0	0.0128906	0.0855469
-sshd: root@pts/1/18379/0	0.634766	0.0257812
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0	0
-ssh/4200/1001	0	0
-curl/6947/0	0	0
+/usr/share/electrosense/bin/webrtc/29349/1001	0.251172	0.147852
+ssh/28428/1001	0.0359375	0.03125
+./xmrig/30370/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0	0
+curl/30352/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	18.1102	0.992578
-/usr/share/electrosense/bin/webrtc/855/1001	0.231445	0.128906
-./xmrig/6985/0	0.0128906	0.0855469
-sshd: root@pts/1/18379/0	0.634766	0.0386719
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0	0
-ssh/4200/1001	0	0
-curl/6947/0	0	0
+/usr/share/electrosense/bin/webrtc/29349/1001	0.251172	0.147852
+ssh/28428/1001	0.0359375	0.03125
+./xmrig/30370/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0	0
+curl/30352/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	18.1102	0.992578
-/usr/share/electrosense/bin/webrtc/855/1001	0.231445	0.128906
-sshd: root@pts/1/18379/0	0.636328	0.0515625
-./xmrig/6985/0	0	0
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0	0
-ssh/4200/1001	0	0
-curl/6947/0	0	0
+/usr/share/electrosense/bin/webrtc/29349/1001	0.231445	0.128906
+ssh/28428/1001	0.0359375	0.03125
+./xmrig/30370/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0	0
+curl/30352/0	0	0
 unknown TCP/0/0	0	0
 
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/29349/1001	0.231445	0.128906
+ssh/28428/1001	0.0359375	0.03125
+sshd: root@pts/3/29793/0	0.0230469	0.0128906
+./xmrig/30370/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0	0
+curl/30352/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/29349/1001	0.231445	0.128906
+ssh/28428/1001	0.0359375	0.03125
+sshd: root@pts/3/29793/0	0.0230469	0.0128906
+./xmrig/30370/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0	0
+curl/30352/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/29349/1001	0.231445	0.128906
+ssh/28428/1001	0.0359375	0.03125
+sshd: root@pts/3/29793/0	0.0230469	0.0128906
+./xmrig/30370/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0	0
+curl/30352/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/29349/1001	0.231445	0.128906
+ssh/28428/1001	0.0359375	0.03125
+sshd: root@pts/3/29793/0	0.0230469	0.0128906
+./xmrig/30370/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0	0
+curl/30352/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/29349/1001	0.231445	0.128906
+ssh/28428/1001	0.0359375	0.03125
+sshd: root@pts/3/29793/0	0.0230469	0.0128906
+./xmrig/30370/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0	0
+curl/30352/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/30619/1001	0.34707	1.14277
+./xmrig/30641/0	0.159766	0.121289
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/30619/1001	0.359961	1.17578
+./xmrig/30641/0	0.159766	0.121289
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/30619/1001	0.444922	1.24746
+/usr/bin/ssh/30837/0	0.366797	0.26582
+./xmrig/30641/0	0.159766	0.121289
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/30619/1001	0.444922	1.24746
+/usr/bin/ssh/30837/0	0.417969	0.362695
+./xmrig/30641/0	0.159766	0.121289
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0	0.0238281
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/bin/ssh/30837/0	0.491406	0.433008
+ssh/31105/1001	0.401953	0.297852
+/usr/share/electrosense/bin/webrtc/30619/1001	0.144141	0.130469
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0	0.0238281
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+ssh/31105/1001	0.760547	0.778711
+/usr/bin/ssh/30837/0	0.491406	0.433008
+/usr/share/electrosense/bin/webrtc/30619/1001	0.144141	0.130469
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0	0.0238281
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+ssh/31105/1001	0.760547	0.778711
+/usr/bin/ssh/30837/0	0.834375	0.660742
+/usr/share/electrosense/bin/webrtc/30619/1001	0.0849609	0.0716797
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0	0.0238281
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+ssh/31105/1001	0.760547	0.778711
+/usr/bin/ssh/30837/0	0.785937	0.635156
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0	0.0238281
+/usr/share/electrosense/bin/webrtc/30619/1001	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0.179883	0.785937
+ssh/31105/1001	0.760547	0.778711
+/usr/bin/ssh/30837/0	0.445312	0.321875
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0	0
+/usr/share/electrosense/bin/webrtc/30619/1001	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0.179883	0.785937
+ssh/31105/1001	0.760547	0.778711
+/usr/bin/ssh/30837/0	0.445312	0.321875
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0	0
+/usr/share/electrosense/bin/webrtc/30619/1001	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+ssh/31105/1001	0.161719	0.977734
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0.950586	0.879687
+/usr/bin/ssh/30837/0	0.355859	0.251563
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0	0
+/usr/share/electrosense/bin/webrtc/30619/1001	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+ssh/31105/1001	0.161719	0.977734
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0.950586	0.879687
+/usr/bin/ssh/30837/0	0.355859	0.251563
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0	0
+/usr/share/electrosense/bin/webrtc/30619/1001	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+ssh/31105/1001	0.161719	0.977734
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0.950586	0.879687
+/usr/bin/ssh/30837/0	0.355859	0.251563
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0	0
+/usr/share/electrosense/bin/webrtc/30619/1001	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+ssh/31105/1001	0.74375	1.04219
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0.770703	0.09375
+192.168.0.95:45742-199.247.0.216:10128/0/0	0	0.0855469
+./xmrig/30641/0	0.0128906	0.0855469
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0	0
+/usr/bin/ssh/30837/0	0	0
+/usr/share/electrosense/bin/webrtc/30619/1001	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+ssh/31105/1001	0.974219	1.19219
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0.770703	0.09375
+192.168.0.95:45742-199.247.0.216:10128/0/0	0	0.0855469
+./xmrig/30641/0	0.0128906	0.0855469
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0	0
+/usr/bin/ssh/30837/0	0	0
+/usr/share/electrosense/bin/webrtc/30619/1001	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+ssh/31105/1001	0.974219	1.19219
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0.770703	0.09375
+192.168.0.95:45742-199.247.0.216:10128/0/0	0	0.0855469
+./xmrig/30641/0	0.0128906	0.0855469
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0	0
+/usr/bin/ssh/30837/0	0	0
+/usr/share/electrosense/bin/webrtc/30619/1001	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+ssh/31105/1001	0.8125	0.214453
+192.168.0.95:45742-199.247.0.216:10128/0/0	0	0.0855469
+./xmrig/30641/0	0.0128906	0.0855469
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0.230469	0.0324219
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0	0
+/usr/bin/ssh/30837/0	0	0
+/usr/share/electrosense/bin/webrtc/30619/1001	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+ssh/31105/1001	0.8125	0.214453
+192.168.0.95:45742-199.247.0.216:10128/0/0	0	0.0855469
+./xmrig/30641/0	0.0128906	0.0855469
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0.243359	0.0519531
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0	0
+/usr/bin/ssh/30837/0	0	0
+/usr/share/electrosense/bin/webrtc/30619/1001	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+ssh/31105/1001	0.8125	0.214453
+192.168.0.95:45742-199.247.0.216:10128/0/0	0	0.0855469
+./xmrig/30641/0	0.0128906	0.0855469
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0.243359	0.0519531
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0	0
+/usr/bin/ssh/30837/0	0	0
+/usr/share/electrosense/bin/webrtc/30619/1001	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.300781	1.11699
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0.243359	0.0519531
+192.168.0.95:45742-199.247.0.216:10128/0/0	0	0
+ssh/31105/1001	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0	0
+/usr/bin/ssh/30837/0	0	0
+/usr/share/electrosense/bin/webrtc/30619/1001	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.320508	1.11699
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0.243359	0.0519531
+192.168.0.95:45742-199.247.0.216:10128/0/0	0	0
+ssh/31105/1001	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0	0
+/usr/bin/ssh/30837/0	0	0
+/usr/share/electrosense/bin/webrtc/30619/1001	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.379687	1.17578
+192.168.0.95:45742-199.247.0.216:10128/0/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+ssh/31105/1001	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0	0
+/usr/bin/ssh/30837/0	0	0
+/usr/share/electrosense/bin/webrtc/30619/1001	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.452539	1.22734
+192.168.0.95:45742-199.247.0.216:10128/0/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+ssh/31105/1001	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0	0
+/usr/bin/ssh/30837/0	0	0
+/usr/share/electrosense/bin/webrtc/30619/1001	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.198047	0.136133
+192.168.0.95:45742-199.247.0.216:10128/0/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+ssh/31105/1001	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0	0
+/usr/bin/ssh/30837/0	0	0
+/usr/share/electrosense/bin/webrtc/30619/1001	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.244336	0.161914
+192.168.0.95:45742-199.247.0.216:10128/0/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+ssh/31105/1001	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0	0
+/usr/bin/ssh/30837/0	0	0
+/usr/share/electrosense/bin/webrtc/30619/1001	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+192.168.0.95:45742-199.247.0.216:10128/0/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+ssh/31105/1001	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0	0
+/usr/bin/ssh/30837/0	0	0
+/usr/share/electrosense/bin/webrtc/30619/1001	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+192.168.0.95:45742-199.247.0.216:10128/0/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+ssh/31105/1001	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0	0
+/usr/bin/ssh/30837/0	0	0
+/usr/share/electrosense/bin/webrtc/30619/1001	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+192.168.0.95:45742-199.247.0.216:10128/0/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+ssh/31105/1001	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0	0
+/usr/bin/ssh/30837/0	0	0
+/usr/share/electrosense/bin/webrtc/30619/1001	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+192.168.0.95:45742-199.247.0.216:10128/0/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+ssh/31105/1001	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0	0
+/usr/bin/ssh/30837/0	0	0
+/usr/share/electrosense/bin/webrtc/30619/1001	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+192.168.0.95:45742-199.247.0.216:10128/0/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+ssh/31105/1001	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0	0
+/usr/bin/ssh/30837/0	0	0
+/usr/share/electrosense/bin/webrtc/30619/1001	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+192.168.0.95:45742-199.247.0.216:10128/0/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+ssh/31105/1001	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0	0
+/usr/bin/ssh/30837/0	0	0
+/usr/share/electrosense/bin/webrtc/30619/1001	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+192.168.0.95:45742-199.247.0.216:10128/0/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+ssh/31105/1001	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0	0
+/usr/bin/ssh/30837/0	0	0
+/usr/share/electrosense/bin/webrtc/30619/1001	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+192.168.0.95:45742-199.247.0.216:10128/0/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+ssh/31105/1001	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0	0
+/usr/bin/ssh/30837/0	0	0
+/usr/share/electrosense/bin/webrtc/30619/1001	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+192.168.0.95:45742-199.247.0.216:10128/0/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+ssh/31105/1001	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0	0
+/usr/bin/ssh/30837/0	0	0
+/usr/share/electrosense/bin/webrtc/30619/1001	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.185156	0.103125
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0.0322266	0.0238281
+192.168.0.95:45742-199.247.0.216:10128/0/0	0	0
+ssh/31105/1001	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0	0
+/usr/bin/ssh/30837/0	0	0
+/usr/share/electrosense/bin/webrtc/30619/1001	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0.0785156	0.0496094
+192.168.0.95:45742-199.247.0.216:10128/0/0	0	0
+ssh/31105/1001	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0	0
+/usr/bin/ssh/30837/0	0	0
+/usr/share/electrosense/bin/webrtc/30619/1001	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0.0785156	0.0496094
+192.168.0.95:45742-199.247.0.216:10128/0/0	0	0
+ssh/31105/1001	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0	0
+/usr/bin/ssh/30837/0	0	0
+/usr/share/electrosense/bin/webrtc/30619/1001	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.204883	0.103125
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0.0785156	0.0496094
+192.168.0.95:45742-199.247.0.216:10128/0/0	0	0
+ssh/31105/1001	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0	0
+/usr/bin/ssh/30837/0	0	0
+/usr/share/electrosense/bin/webrtc/30619/1001	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.116016
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0.0785156	0.0496094
+192.168.0.95:45742-199.247.0.216:10128/0/0	0	0
+ssh/31105/1001	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0	0
+/usr/bin/ssh/30837/0	0	0
+/usr/share/electrosense/bin/webrtc/30619/1001	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.283398	0.161523
+192.168.0.95:45742-199.247.0.216:10128/0/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+ssh/31105/1001	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0	0
+/usr/bin/ssh/30837/0	0	0
+/usr/share/electrosense/bin/webrtc/30619/1001	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.283398	0.174414
+192.168.0.95:45742-199.247.0.216:10128/0/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+ssh/31105/1001	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0	0
+/usr/bin/ssh/30837/0	0	0
+/usr/share/electrosense/bin/webrtc/30619/1001	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.256836	0.167578
+./xmrig/30641/0	0.0128906	0.0855469
+192.168.0.95:45742-199.247.0.216:10128/0/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+ssh/31105/1001	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0	0
+/usr/bin/ssh/30837/0	0	0
+/usr/share/electrosense/bin/webrtc/30619/1001	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.303125	0.193359
+./xmrig/30641/0	0.0128906	0.0855469
+192.168.0.95:45742-199.247.0.216:10128/0/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+ssh/31105/1001	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0	0
+/usr/bin/ssh/30837/0	0	0
+/usr/share/electrosense/bin/webrtc/30619/1001	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.251172	0.147852
+./xmrig/30641/0	0.0128906	0.0855469
+192.168.0.95:45742-199.247.0.216:10128/0/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+ssh/31105/1001	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0	0
+/usr/bin/ssh/30837/0	0	0
+/usr/share/electrosense/bin/webrtc/30619/1001	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.251172	0.147852
+./xmrig/30641/0	0.0128906	0.0855469
+192.168.0.95:45742-199.247.0.216:10128/0/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+ssh/31105/1001	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0	0
+/usr/bin/ssh/30837/0	0	0
+/usr/share/electrosense/bin/webrtc/30619/1001	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.116016
+./xmrig/30641/0	0.0128906	0.0855469
+192.168.0.95:45742-199.247.0.216:10128/0/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+ssh/31105/1001	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0	0
+/usr/bin/ssh/30837/0	0	0
+/usr/share/electrosense/bin/webrtc/30619/1001	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+./xmrig/30641/0	0.0128906	0.0855469
+192.168.0.95:45742-199.247.0.216:10128/0/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+ssh/31105/1001	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0	0
+/usr/bin/ssh/30837/0	0	0
+/usr/share/electrosense/bin/webrtc/30619/1001	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+192.168.0.95:45742-199.247.0.216:10128/0/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+ssh/31105/1001	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0	0
+/usr/bin/ssh/30837/0	0	0
+/usr/share/electrosense/bin/webrtc/30619/1001	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+192.168.0.95:45742-199.247.0.216:10128/0/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+ssh/31105/1001	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0	0
+/usr/bin/ssh/30837/0	0	0
+/usr/share/electrosense/bin/webrtc/30619/1001	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+192.168.0.95:45742-199.247.0.216:10128/0/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+ssh/31105/1001	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0	0
+/usr/bin/ssh/30837/0	0	0
+/usr/share/electrosense/bin/webrtc/30619/1001	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.204883	0.103125
+192.168.0.95:45742-199.247.0.216:10128/0/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+ssh/31105/1001	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0	0
+/usr/bin/ssh/30837/0	0	0
+/usr/share/electrosense/bin/webrtc/30619/1001	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.116016
+192.168.0.95:45742-199.247.0.216:10128/0/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+ssh/31105/1001	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0	0
+/usr/bin/ssh/30837/0	0	0
+/usr/share/electrosense/bin/webrtc/30619/1001	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+192.168.0.95:45742-199.247.0.216:10128/0/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+ssh/31105/1001	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/28072/0	0	0
+/usr/bin/ssh/30837/0	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+192.168.0.95:45742-199.247.0.216:10128/0/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+ssh/31105/1001	0	0
+/usr/bin/ssh/30837/0	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.185156	0.103125
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0.0128906	0.0238281
+192.168.0.95:45742-199.247.0.216:10128/0/0	0	0
+ssh/31105/1001	0	0
+/usr/bin/ssh/30837/0	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0.0785156	0.0496094
+192.168.0.95:45742-199.247.0.216:10128/0/0	0	0
+ssh/31105/1001	0	0
+/usr/bin/ssh/30837/0	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0.0785156	0.0496094
+192.168.0.95:45742-199.247.0.216:10128/0/0	0	0
+ssh/31105/1001	0	0
+/usr/bin/ssh/30837/0	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0.0785156	0.0496094
+192.168.0.95:45742-199.247.0.216:10128/0/0	0	0
+ssh/31105/1001	0	0
+/usr/bin/ssh/30837/0	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0.0785156	0.0496094
+192.168.0.95:45742-199.247.0.216:10128/0/0	0	0
+ssh/31105/1001	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.283398	0.174414
+192.168.0.95:45742-199.247.0.216:10128/0/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+ssh/31105/1001	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.303125	0.193359
+192.168.0.95:45742-199.247.0.216:10128/0/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+ssh/31105/1001	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.303125	0.193359
+192.168.0.95:45742-199.247.0.216:10128/0/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+ssh/31105/1001	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.303125	0.193359
+192.168.0.95:45742-199.247.0.216:10128/0/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+ssh/31105/1001	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.251172	0.147852
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+ssh/31105/1001	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
 Refreshing:
-es_sensor/4309/0	14.9012	0.799219
-/usr/share/electrosense/bin/webrtc/855/1001	0.185156	0.103125
-sshd: root@pts/1/18379/0	0.576953	0.0257812
-./xmrig/6985/0	0	0
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0	0
-ssh/4200/1001	0	0
-curl/6947/0	0	0
+/usr/share/electrosense/bin/webrtc/32075/1001	0.251172	0.147852
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+./xmrig/30641/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	14.9012	0.812109
-/usr/share/electrosense/bin/webrtc/855/1001	0.185156	0.103125
-./xmrig/6985/0	0.0128906	0.0855469
-sshd: root@pts/1/18379/0	0.349219	0.0386719
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0	0
-ssh/4200/1001	0	0
-curl/6947/0	0	0
+/usr/share/electrosense/bin/webrtc/32075/1001	0.185156	0.103125
+curl/32149/0	0.0144531	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+./xmrig/30641/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	14.9012	0.812109
-/usr/share/electrosense/bin/webrtc/855/1001	0.185156	0.103125
-./xmrig/6985/0	0.0128906	0.0855469
-sshd: root@pts/1/18379/0	0.542578	0.0386719
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0	0
-ssh/4200/1001	0	0
-curl/6947/0	0	0
+curl/32149/0	0.399609	0.388477
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+./xmrig/30641/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	14.9012	0.812109
-/usr/share/electrosense/bin/webrtc/855/1001	0.204883	0.12207
-./xmrig/6985/0	0.0128906	0.0855469
-sshd: root@pts/1/18379/0	0.360156	0.0257812
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0	0
-ssh/4200/1001	0	0
-curl/6947/0	0	0
+curl/32149/0	0.399609	0.388477
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+./xmrig/30641/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	14.9012	0.812109
-/usr/share/electrosense/bin/webrtc/855/1001	0.204883	0.12207
-./xmrig/6985/0	0.0128906	0.0855469
-sshd: root@pts/1/18379/0	0.583203	0.0386719
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0	0
-ssh/4200/1001	0	0
-curl/6947/0	0	0
+curl/32149/0	0.399609	0.388477
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.116016
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+./xmrig/30641/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	14.9012	0.825
-/usr/share/electrosense/bin/webrtc/855/1001	0.204883	0.12207
-sshd: root@pts/1/18379/0	0.785156	0.0386719
-./xmrig/6985/0	0	0
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0	0
-ssh/4200/1001	0	0
-curl/6947/0	0	0
+curl/32149/0	0.399609	0.388477
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+./xmrig/30641/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	14.6998	0.825
-/usr/share/electrosense/bin/webrtc/855/1001	0.204883	0.12207
-sshd: root@pts/1/18379/0	0.591797	0.0386719
-./xmrig/6985/0	0	0
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0	0
-ssh/4200/1001	0	0
-curl/6947/0	0	0
+curl/32149/0	0.399609	0.388477
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+./xmrig/30641/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	13.4916	0.799219
-/usr/share/electrosense/bin/webrtc/855/1001	0.185156	0.103125
-sshd: root@pts/1/18379/0	0.799219	0.0515625
-./xmrig/6985/0	0	0
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0	0
-ssh/4200/1001	0	0
-curl/6947/0	0	0
+/usr/share/electrosense/bin/webrtc/32075/1001	0.185156	0.103125
+./xmrig/30641/0	0.0128906	0.0855469
+curl/32149/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	13.693	0.812109
-/usr/share/electrosense/bin/webrtc/855/1001	0.185156	0.103125
-sshd: root@pts/1/18379/0	0.800781	0.0515625
-./xmrig/6985/0	0	0
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0	0
-ssh/4200/1001	0	0
-curl/6947/0	0	0
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+./xmrig/30641/0	0.0128906	0.0855469
+curl/32149/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	14.4984	0.863672
-/usr/share/electrosense/bin/webrtc/855/1001	0.283398	0.174414
-sshd: root@pts/1/18379/0	0.800781	0.0515625
-./xmrig/6985/0	0	0
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0	0
-ssh/4200/1001	0	0
-curl/6947/0	0	0
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+./xmrig/30641/0	0.0128906	0.0855469
+curl/32149/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	13.693	0.837891
-/usr/share/electrosense/bin/webrtc/855/1001	0.283398	0.174414
-sshd: root@pts/1/18379/0	0.642578	0.0515625
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0.096875	0.0496094
-./xmrig/6985/0	0	0
-ssh/4200/1001	0	0
-curl/6947/0	0	0
+/usr/share/electrosense/bin/webrtc/32075/1001	0.185156	0.103125
+./xmrig/30641/0	0.0128906	0.0855469
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0.0128906	0.0238281
+ssh/31281/1001	0.0359375	0.0183594
+curl/32149/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	10.8738	0.631641
-/usr/share/electrosense/bin/webrtc/855/1001	0.237109	0.148633
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0.096875	0.0496094
-sshd: root@pts/1/18379/0	0.631641	0.0257812
-./xmrig/6985/0	0	0
-ssh/4200/1001	0	0
-curl/6947/0	0	0
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+./xmrig/30641/0	0.0128906	0.0855469
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0.0785156	0.0496094
+ssh/31281/1001	0.0359375	0.0183594
+curl/32149/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	11.2766	0.644531
-/usr/share/electrosense/bin/webrtc/855/1001	0.237109	0.148633
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0.096875	0.0496094
-sshd: root@pts/1/18379/0	0.407031	0.0386719
-./xmrig/6985/0	0	0
-ssh/4200/1001	0	0
-curl/6947/0	0	0
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0.0785156	0.0496094
+ssh/31281/1001	0.0359375	0.0183594
+curl/32149/0	0	0
+./xmrig/30641/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	13.693	0.760547
-/usr/share/electrosense/bin/webrtc/855/1001	0.185156	0.103125
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0.096875	0.0496094
-sshd: root@pts/1/18379/0	0.620703	0.0386719
-./xmrig/6985/0	0	0
-ssh/4200/1001	0	0
-curl/6947/0	0	0
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0.0785156	0.0496094
+ssh/31281/1001	0.0359375	0.0183594
+curl/32149/0	0	0
+./xmrig/30641/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	14.4984	0.786328
-/usr/share/electrosense/bin/webrtc/855/1001	0.185156	0.103125
-sshd: root@pts/1/18379/0	0.584766	0.0257812
-./xmrig/6985/0	0	0
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0	0
-ssh/4200/1001	0	0
-curl/6947/0	0	0
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0.0785156	0.0496094
+ssh/31281/1001	0.0359375	0.0183594
+curl/32149/0	0	0
+./xmrig/30641/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	14.0957	0.773438
-/usr/share/electrosense/bin/webrtc/855/1001	0.185156	0.103125
-sshd: root@pts/1/18379/0	0.388281	0.0386719
-./xmrig/6985/0	0	0
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0	0
-curl/6947/0	0	0
+/usr/share/electrosense/bin/webrtc/32075/1001	0.283398	0.174414
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0.0785156	0.0496094
+ssh/31281/1001	0	0
+curl/32149/0	0	0
+./xmrig/30641/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	14.4984	0.786328
-/usr/share/electrosense/bin/webrtc/855/1001	0.185156	0.103125
-sshd: root@pts/1/18379/0	0.576953	0.0386719
-./xmrig/6985/0	0	0
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0	0
+/usr/share/electrosense/bin/webrtc/32075/1001	0.290234	0.180469
+ssh/31281/1001	0	0
+curl/32149/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+./xmrig/30641/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	14.0957	0.773438
-/usr/share/electrosense/bin/webrtc/855/1001	0.185156	0.103125
-sshd: root@pts/1/18379/0	0.363281	0.0257812
-./xmrig/6985/0	0	0
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0	0
+/usr/share/electrosense/bin/webrtc/32075/1001	0.303125	0.193359
+ssh/31281/1001	0	0
+curl/32149/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+./xmrig/30641/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	14.2971	0.786328
-/usr/share/electrosense/bin/webrtc/855/1001	0.185156	0.103125
-sshd: root@pts/1/18379/0	0.572266	0.0386719
-./xmrig/6985/0	0	0
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0	0
+/usr/share/electrosense/bin/webrtc/32075/1001	0.303125	0.193359
+ssh/31281/1001	0	0
+curl/32149/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+./xmrig/30641/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	14.0957	0.801562
-/usr/share/electrosense/bin/webrtc/855/1001	0.185156	0.103125
-sshd: root@pts/1/18379/0	0.620703	0.0386719
-./xmrig/6985/0	0	0
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0	0
+/usr/share/electrosense/bin/webrtc/32075/1001	0.303125	0.193359
+ssh/31281/1001	0	0
+curl/32149/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+./xmrig/30641/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	14.4984	0.801562
-/usr/share/electrosense/bin/webrtc/855/1001	0.185156	0.103125
-sshd: root@pts/1/18379/0	0.432031	0.0257812
-./xmrig/6985/0	0	0
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0	0
+/usr/share/electrosense/bin/webrtc/32075/1001	0.251172	0.147852
+ssh/31281/1001	0	0
+curl/32149/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+./xmrig/30641/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	14.6998	0.814453
-curl/7137/0	0.398828	0.388477
-/usr/share/electrosense/bin/webrtc/855/1001	0.185156	0.103125
-sshd: root@pts/1/18379/0	0.637891	0.0386719
-./xmrig/6985/0	0	0
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0	0
+/usr/share/electrosense/bin/webrtc/32075/1001	0.251172	0.147852
+ssh/31281/1001	0	0
+curl/32149/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+./xmrig/30641/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	14.2971	0.788672
-curl/7137/0	0.398828	0.388477
-/usr/share/electrosense/bin/webrtc/855/1001	0.185156	0.103125
-sshd: root@pts/1/18379/0	0.637891	0.0386719
-./xmrig/6985/0	0	0
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0	0
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+ssh/31281/1001	0	0
+curl/32149/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+./xmrig/30641/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	14.0957	0.773438
-curl/7137/0	0.398828	0.388477
-/usr/share/electrosense/bin/webrtc/855/1001	0.204883	0.12207
-sshd: root@pts/1/18379/0	0.414844	0.0257812
-./xmrig/6985/0	0	0
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0	0
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+ssh/31281/1001	0	0
+curl/32149/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+./xmrig/30641/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	14.0957	0.773438
-curl/7137/0	0.398828	0.388477
-/usr/share/electrosense/bin/webrtc/855/1001	0.204883	0.12207
-sshd: root@pts/1/18379/0	0.641016	0.0386719
-./xmrig/6985/0	0	0
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0	0
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+ssh/31281/1001	0	0
+curl/32149/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+./xmrig/30641/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	13.693	0.760547
-/usr/share/electrosense/bin/webrtc/855/1001	0.204883	0.12207
-sshd: root@pts/1/18379/0	0.662891	0.0386719
-ssh/4200/1001	0.0359375	0.0183594
-curl/7137/0	0	0.0128906
-./xmrig/6985/0	0	0
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0	0
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+ssh/31281/1001	0	0
+curl/32149/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+./xmrig/30641/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	12.082	0.683203
-/usr/share/electrosense/bin/webrtc/855/1001	0.204883	0.12207
-./xmrig/6985/0	0.0128906	0.0855469
-sshd: root@pts/1/18379/0	0.453906	0.0386719
-ssh/4200/1001	0.0359375	0.0183594
-curl/7137/0	0	0
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0	0
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+ssh/31281/1001	0	0
+curl/32149/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+./xmrig/30641/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-ssh/4200/1001	0.210547	0.970312
-es_sensor/4309/0	10.0684	0.605859
-/usr/share/electrosense/bin/webrtc/855/1001	0.185156	0.103125
-./xmrig/6985/0	0.0128906	0.0855469
-sshd: root@pts/1/18379/0	0.656641	0.0386719
-curl/7137/0	0	0
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0	0
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+ssh/31281/1001	0	0
+curl/32149/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+./xmrig/30641/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-ssh/4200/1001	0.210547	0.970312
-es_sensor/4309/0	9.26289	0.592969
-/usr/share/electrosense/bin/webrtc/855/1001	0.185156	0.103125
-./xmrig/6985/0	0.0128906	0.0855469
-sshd: root@pts/1/18379/0	0.675391	0.0257812
-curl/7137/0	0	0
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0	0
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+ssh/31281/1001	0	0
+curl/32149/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+./xmrig/30641/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-ssh/4200/1001	0.174609	0.951953
-es_sensor/4309/0	10.0684	0.61875
-/usr/share/electrosense/bin/webrtc/855/1001	0.237109	0.148633
-./xmrig/6985/0	0.0128906	0.0855469
-sshd: root@pts/1/18379/0	0.447656	0.0386719
-curl/7137/0	0	0
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0	0
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+ssh/31281/1001	0	0
+curl/32149/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+./xmrig/30641/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-ssh/4200/1001	0.174609	0.951953
-es_sensor/4309/0	10.8738	0.657422
-/usr/share/electrosense/bin/webrtc/855/1001	0.237109	0.148633
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0.0966797	0.0496094
-sshd: root@pts/1/18379/0	0.625391	0.0386719
-curl/7137/0	0	0
-./xmrig/6985/0	0	0
+/usr/share/electrosense/bin/webrtc/32075/1001	0.185156	0.103125
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0.0322266	0.0238281
+ssh/31281/1001	0	0
+curl/32149/0	0	0
+./xmrig/30641/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	11.6793	0.708984
-/usr/share/electrosense/bin/webrtc/855/1001	0.237109	0.148633
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0.0966797	0.0496094
-sshd: root@pts/1/18379/0	0.422656	0.0257812
-ssh/4200/1001	0	0
-curl/7137/0	0	0
-./xmrig/6985/0	0	0
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0.0785156	0.0496094
+ssh/31281/1001	0	0
+curl/32149/0	0	0
+./xmrig/30641/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	11.2766	0.683203
-ssh/4200/1001	0.722266	0.162891
-/usr/share/electrosense/bin/webrtc/855/1001	0.237109	0.148633
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0.0966797	0.0496094
-sshd: root@pts/1/18379/0	0.411719	0.0386719
-curl/7137/0	0	0
-./xmrig/6985/0	0	0
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0.0785156	0.0496094
+ssh/31281/1001	0	0
+curl/32149/0	0	0
+./xmrig/30641/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	11.4779	0.683203
-ssh/4200/1001	0.722266	0.162891
-/usr/share/electrosense/bin/webrtc/855/1001	0.185156	0.103125
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0.0966797	0.0496094
-sshd: root@pts/1/18379/0	0.655078	0.0386719
-curl/7137/0	0	0
-./xmrig/6985/0	0	0
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0.0785156	0.0496094
+ssh/31281/1001	0	0
+curl/32149/0	0	0
+./xmrig/30641/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	12.2834	0.708984
-ssh/4200/1001	0.722266	0.162891
-/usr/share/electrosense/bin/webrtc/855/1001	0.185156	0.103125
-sshd: root@pts/1/18379/0	0.477344	0.0257812
-curl/7137/0	0	0
-./xmrig/6985/0	0	0
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0	0
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.116016
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0.0785156	0.0496094
+ssh/31281/1001	0	0
+curl/32149/0	0	0
+./xmrig/30641/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	12.2834	0.696094
-ssh/4200/1001	0.722266	0.162891
-/usr/share/electrosense/bin/webrtc/855/1001	0.185156	0.103125
-sshd: root@pts/1/18379/0	0.666016	0.0386719
-curl/7137/0	0	0
-./xmrig/6985/0	0	0
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0	0
+/usr/share/electrosense/bin/webrtc/32075/1001	0.283398	0.161523
+ssh/31281/1001	0	0
+curl/32149/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+./xmrig/30641/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	13.2902	0.760547
-/usr/share/electrosense/bin/webrtc/855/1001	0.185156	0.103125
-sshd: root@pts/1/18379/0	0.595703	0.0386719
-ssh/4200/1001	0	0
-curl/7137/0	0	0
-./xmrig/6985/0	0	0
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0	0
+/usr/share/electrosense/bin/webrtc/32075/1001	0.303125	0.180469
+ssh/31281/1001	0	0
+curl/32149/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+./xmrig/30641/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	13.4916	0.775781
-/usr/share/electrosense/bin/webrtc/855/1001	0.185156	0.103125
-sshd: root@pts/1/18379/0	0.352344	0.0257812
-ssh/4200/1001	0	0
-curl/7137/0	0	0
-./xmrig/6985/0	0	0
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0	0
+/usr/share/electrosense/bin/webrtc/32075/1001	0.303125	0.180469
+ssh/31281/1001	0	0
+curl/32149/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+./xmrig/30641/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	13.4916	0.775781
-/usr/share/electrosense/bin/webrtc/855/1001	0.185156	0.103125
-sshd: root@pts/1/18379/0	0.553516	0.0386719
-ssh/4200/1001	0	0
-curl/7137/0	0	0
-./xmrig/6985/0	0	0
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0	0
+/usr/share/electrosense/bin/webrtc/32075/1001	0.303125	0.193359
+./xmrig/30641/0	0.0128906	0.0855469
+ssh/31281/1001	0	0
+curl/32149/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	14.2971	0.814453
-/usr/share/electrosense/bin/webrtc/855/1001	0.185156	0.103125
-sshd: root@pts/1/18379/0	0.562891	0.0386719
-ssh/4200/1001	0	0
-curl/7137/0	0	0
-./xmrig/6985/0	0	0
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0	0
+/usr/share/electrosense/bin/webrtc/32075/1001	0.251172	0.147852
+./xmrig/30641/0	0.0128906	0.0855469
+ssh/31281/1001	0	0
+curl/32149/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	14.2971	0.801562
-/usr/share/electrosense/bin/webrtc/855/1001	0.185156	0.103125
-sshd: root@pts/1/18379/0	0.576563	0.0925781
-./xmrig/6985/0	0.0257812	0.0128906
-ssh/4200/1001	0	0
-curl/7137/0	0	0
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0	0
+/usr/share/electrosense/bin/webrtc/32075/1001	0.251172	0.134961
+./xmrig/30641/0	0.0128906	0.0855469
+ssh/31281/1001	0	0
+curl/32149/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	14.2971	0.786328
-sshd: root@pts/1/18379/0	0.939062	0.118359
-/usr/share/electrosense/bin/webrtc/855/1001	0.185156	0.103125
-./xmrig/6985/0	0.0257812	0.0128906
-ssh/4200/1001	0	0
-curl/7137/0	0	0
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0	0
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+./xmrig/30641/0	0.0128906	0.0855469
+ssh/31281/1001	0	0
+curl/32149/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	14.2971	0.799219
-sshd: root@pts/1/18379/0	0.975	0.105469
-/usr/share/electrosense/bin/webrtc/855/1001	0.185156	0.103125
-./xmrig/6985/0	0.0257812	0.0128906
-ssh/4200/1001	0	0
-curl/7137/0	0	0
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0	0
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+ssh/31281/1001	0	0
+curl/32149/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+./xmrig/30641/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	14.4984	0.799219
-/usr/share/electrosense/bin/webrtc/855/1001	0.204883	0.12207
-sshd: root@pts/1/18379/0	0.776953	0.118359
-./xmrig/6985/0	0.0257812	0.0128906
-ssh/4200/1001	0	0
-curl/7137/0	0	0
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0	0
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.116016
+ssh/31281/1001	0	0
+curl/32149/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+./xmrig/30641/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	14.6998	0.799219
-/usr/share/electrosense/bin/webrtc/855/1001	0.204883	0.12207
-sshd: root@pts/1/18379/0	0.780469	0.0515625
-ssh/4200/1001	0	0
-curl/7137/0	0	0
-./xmrig/6985/0	0	0
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0	0
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.116016
+ssh/31281/1001	0	0
+curl/32149/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+./xmrig/30641/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	18.3244	0.992578
-/usr/share/electrosense/bin/webrtc/855/1001	0.251172	0.147852
-sshd: root@pts/1/18379/0	1.04883	0.0515625
-ssh/4200/1001	0	0
-curl/7137/0	0	0
-./xmrig/6985/0	0	0
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0	0
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+ssh/31281/1001	0	0
+curl/32149/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+./xmrig/30641/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	14.4984	0.786328
-/usr/share/electrosense/bin/webrtc/855/1001	0.204883	0.12207
-sshd: root@pts/1/18379/0	0.449219	0.0386719
-ssh/4200/1001	0	0
-curl/7137/0	0	0
-./xmrig/6985/0	0	0
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0	0
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+ssh/31281/1001	0	0
+curl/32149/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+./xmrig/30641/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	14.4984	0.786328
-/usr/share/electrosense/bin/webrtc/855/1001	0.185156	0.103125
-sshd: root@pts/1/18379/0	0.666016	0.0386719
-ssh/4200/1001	0	0
-curl/7137/0	0	0
-./xmrig/6985/0	0	0
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0	0
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+ssh/31281/1001	0	0
+curl/32149/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+./xmrig/30641/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	14.4984	0.799219
-/usr/share/electrosense/bin/webrtc/855/1001	0.185156	0.103125
-sshd: root@pts/1/18379/0	0.485156	0.0257812
-ssh/4200/1001	0	0
-curl/7137/0	0	0
-./xmrig/6985/0	0	0
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0	0
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+ssh/31281/1001	0	0
+curl/32149/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+./xmrig/30641/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	14.9012	0.799219
-/usr/share/electrosense/bin/webrtc/855/1001	0.237109	0.148633
-sshd: root@pts/1/18379/0	0.369531	0.0386719
-ssh/4200/1001	0	0
-curl/7137/0	0	0
-./xmrig/6985/0	0	0
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0	0
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+ssh/31281/1001	0	0
+curl/32149/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+./xmrig/30641/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	15.1025	0.825
-/usr/share/electrosense/bin/webrtc/855/1001	0.237109	0.148633
-sshd: root@pts/1/18379/0	0.633984	0.0585938
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0.096875	0.0496094
-ssh/4200/1001	0	0
-curl/7137/0	0	0
-./xmrig/6985/0	0	0
+/usr/share/electrosense/bin/webrtc/32075/1001	0.185156	0.103125
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0.0128906	0.0238281
+ssh/31281/1001	0	0
+curl/32149/0	0	0
+./xmrig/30641/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	15.1025	0.825
-/usr/share/electrosense/bin/webrtc/855/1001	0.237109	0.148633
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0.096875	0.0496094
-sshd: root@pts/1/18379/0	0.417188	0.0457031
-ssh/4200/1001	0	0
-curl/7137/0	0	0
-./xmrig/6985/0	0	0
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0.0785156	0.0496094
+ssh/31281/1001	0	0
+curl/32149/0	0	0
+./xmrig/30641/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	14.9012	0.812109
-/usr/share/electrosense/bin/webrtc/855/1001	0.237109	0.148633
-sshd: root@pts/1/18379/0	0.658984	0.0585938
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0.096875	0.0496094
-ssh/4200/1001	0	0
-curl/7137/0	0	0
-./xmrig/6985/0	0	0
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0.0785156	0.0496094
+ssh/31281/1001	0	0
+./xmrig/30641/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	15.1025	0.799219
-/usr/share/electrosense/bin/webrtc/855/1001	0.185156	0.103125
-sshd: root@pts/1/18379/0	0.738672	0.0585938
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0.096875	0.0496094
-ssh/4200/1001	0	0
-curl/7137/0	0	0
-./xmrig/6985/0	0	0
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0.0785156	0.0496094
+ssh/31281/1001	0	0
+./xmrig/30641/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	15.1025	0.799219
-/usr/share/electrosense/bin/webrtc/855/1001	0.185156	0.103125
-sshd: root@pts/1/18379/0	0.474219	0.0257812
-ssh/4200/1001	0	0
-curl/7137/0	0	0
-./xmrig/6985/0	0	0
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0	0
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0.0785156	0.0496094
+ssh/31281/1001	0	0
+./xmrig/30641/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	15.0896	0.812109
-/usr/share/electrosense/bin/webrtc/855/1001	0.185156	0.103125
-sshd: root@pts/1/18379/0	0.712891	0.0386719
-ssh/4200/1001	0	0
-curl/7137/0	0	0
-./xmrig/6985/0	0	0
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0	0
+/usr/share/electrosense/bin/webrtc/32075/1001	0.283398	0.174414
+ssh/31281/1001	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+./xmrig/30641/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	14.6869	0.812109
-/usr/share/electrosense/bin/webrtc/855/1001	0.185156	0.103125
-sshd: root@pts/1/18379/0	0.705078	0.0386719
-ssh/4200/1001	0	0
-curl/7137/0	0	0
-./xmrig/6985/0	0	0
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0	0
+/usr/share/electrosense/bin/webrtc/32075/1001	0.283398	0.174414
+ssh/31281/1001	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+./xmrig/30641/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	14.6869	0.812109
-/usr/share/electrosense/bin/webrtc/855/1001	0.185156	0.103125
-sshd: root@pts/1/18379/0	0.472656	0.0257812
-ssh/4200/1001	0	0
-curl/7137/0	0	0
-./xmrig/6985/0	0	0
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0	0
+/usr/share/electrosense/bin/webrtc/32075/1001	0.303125	0.193359
+ssh/31281/1001	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+./xmrig/30641/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	14.8883	0.812109
-/usr/share/electrosense/bin/webrtc/855/1001	0.185156	0.103125
-sshd: root@pts/1/18379/0	0.689453	0.0386719
-ssh/4200/1001	0	0
-curl/7137/0	0	0
-./xmrig/6985/0	0	0
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0	0
+curl/32400/0	0.191602	0.281055
+/usr/share/electrosense/bin/webrtc/32075/1001	0.256836	0.167578
+ssh/31281/1001	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+./xmrig/30641/0	0	0
 unknown TCP/0/0	0	0
 
 Refreshing:
-es_sensor/4309/0	14.9012	0.812109
-/usr/share/electrosense/bin/webrtc/855/1001	0.185156	0.103125
-sshd: root@pts/1/18379/0	0.639453	0.0386719
-ssh/4200/1001	0	0
-curl/7137/0	0	0
-./xmrig/6985/0	0	0
-/opt/venvs/electrosense-sensor-mqtt/bin/python3/4290/0	0	0
+curl/32400/0	0.398242	0.388477
+/usr/share/electrosense/bin/webrtc/32075/1001	0.303125	0.193359
+ssh/31281/1001	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+./xmrig/30641/0	0	0
 unknown TCP/0/0	0	0
+
+Refreshing:
+curl/32400/0	0.398242	0.388477
+/usr/share/electrosense/bin/webrtc/32075/1001	0.224609	0.12207
+ssh/31281/1001	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+curl/32400/0	0.398242	0.388477
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+curl/32400/0	0.398242	0.388477
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+curl/32400/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+curl/32400/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+curl/32400/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.204883	0.103125
+curl/32400/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.116016
+curl/32400/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+./xmrig/30641/0	0.0128906	0.0855469
+curl/32400/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+./xmrig/30641/0	0.0128906	0.0855469
+curl/32400/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.185156	0.103125
+./xmrig/30641/0	0.0128906	0.0855469
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0.0128906	0.0238281
+ssh/31281/1001	0.0359375	0.0183594
+curl/32400/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+./xmrig/30641/0	0.0128906	0.0855469
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0.0785156	0.0496094
+ssh/31281/1001	0.0359375	0.0183594
+curl/32400/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+./xmrig/30641/0	0.0128906	0.0855469
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0.0785156	0.0496094
+ssh/31281/1001	0.0359375	0.0183594
+curl/32400/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0.0785156	0.0496094
+ssh/31281/1001	0.0359375	0.0183594
+curl/32400/0	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.244336	0.161914
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0.0785156	0.0496094
+ssh/31281/1001	0	0
+curl/32400/0	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.296289	0.207422
+ssh/31281/1001	0	0
+curl/32400/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.296289	0.207422
+ssh/31281/1001	0	0
+curl/32400/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.316016	0.226367
+ssh/31281/1001	0	0
+curl/32400/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.303125	0.180469
+ssh/31281/1001	0	0
+curl/32400/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.251172	0.147852
+ssh/31281/1001	0	0
+curl/32400/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.251172	0.147852
+ssh/31281/1001	0	0
+curl/32400/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.251172	0.147852
+ssh/31281/1001	0	0
+curl/32400/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+ssh/31281/1001	0	0
+curl/32400/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+ssh/31281/1001	0	0
+curl/32400/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+ssh/31281/1001	0	0
+curl/32400/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+ssh/31281/1001	0	0
+curl/32400/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+ssh/31281/1001	0	0
+curl/32400/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+ssh/31281/1001	0	0
+curl/32400/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+ssh/31281/1001	0	0
+curl/32400/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+ssh/31281/1001	0	0
+curl/32400/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.185156	0.103125
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0.0128906	0.0238281
+ssh/31281/1001	0	0
+curl/32400/0	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.116016
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0.0785156	0.0496094
+ssh/31281/1001	0	0
+curl/32400/0	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.116016
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0.0785156	0.0496094
+ssh/31281/1001	0	0
+curl/32400/0	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.204883	0.103125
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0.0785156	0.0496094
+ssh/31281/1001	0	0
+curl/32400/0	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.116016
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0.0785156	0.0496094
+ssh/31281/1001	0	0
+curl/32400/0	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.256836	0.148633
+ssh/31281/1001	0	0
+curl/32400/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.256836	0.148633
+ssh/31281/1001	0	0
+curl/32400/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.276563	0.167578
+ssh/31281/1001	0	0
+curl/32400/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.303125	0.193359
+./xmrig/30641/0	0.0128906	0.0855469
+ssh/31281/1001	0	0
+curl/32400/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.251172	0.147852
+./xmrig/30641/0	0.0128906	0.0855469
+ssh/31281/1001	0	0
+curl/32400/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.251172	0.147852
+./xmrig/30641/0	0.0128906	0.0855469
+ssh/31281/1001	0	0
+curl/32400/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.251172	0.147852
+./xmrig/30641/0	0.0128906	0.0855469
+ssh/31281/1001	0	0
+curl/32400/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+ssh/31281/1001	0	0
+curl/32400/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.116016
+ssh/31281/1001	0	0
+curl/32400/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.185156	0.103125
+./xmrig/30641/0	0.0128906	0.0855469
+ssh/31281/1001	0	0
+curl/32400/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+./xmrig/30641/0	0.0257812	0.171094
+/usr/share/electrosense/bin/webrtc/32075/1001	0.185156	0.103125
+ssh/31281/1001	0	0
+curl/32400/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+./xmrig/30641/0	0.0257812	0.171094
+/usr/share/electrosense/bin/webrtc/32075/1001	0.204883	0.103125
+ssh/31281/1001	0	0
+curl/32400/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+./xmrig/30641/0	0.0257812	0.171094
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.116016
+ssh/31281/1001	0	0
+curl/32400/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+./xmrig/30641/0	0.0257812	0.171094
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+ssh/31281/1001	0	0
+curl/32400/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+./xmrig/30641/0	0.0257812	0.171094
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+ssh/31281/1001	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.185156	0.103125
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0.0785156	0.0367187
+ssh/31281/1001	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0.0785156	0.0496094
+ssh/31281/1001	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0.0785156	0.0496094
+ssh/31281/1001	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0.0785156	0.0496094
+ssh/31281/1001	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.204883	0.103125
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0.0785156	0.0496094
+ssh/31281/1001	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+curl/32493/0	0.391016	0.388477
+/usr/share/electrosense/bin/webrtc/32075/1001	0.256836	0.148633
+ssh/31281/1001	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+curl/32493/0	0.391016	0.388477
+/usr/share/electrosense/bin/webrtc/32075/1001	0.303125	0.193359
+ssh/31281/1001	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+curl/32493/0	0.391016	0.388477
+/usr/share/electrosense/bin/webrtc/32075/1001	0.303125	0.193359
+ssh/31281/1001	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+curl/32493/0	0.391016	0.388477
+/usr/share/electrosense/bin/webrtc/32075/1001	0.303125	0.193359
+ssh/31281/1001	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.251172	0.147852
+curl/32493/0	0	0
+ssh/31281/1001	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.224609	0.12207
+curl/32493/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.204883	0.103125
+curl/32493/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+./xmrig/30641/0	0.0128906	0.0855469
+curl/32493/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+./xmrig/30641/0	0.0128906	0.0855469
+curl/32493/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+./xmrig/30641/0	0.0128906	0.0855469
+curl/32493/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+./xmrig/30641/0	0.0128906	0.0855469
+curl/32493/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+./xmrig/30641/0	0.0128906	0.0855469
+curl/32493/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+curl/32493/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
+Refreshing:
+/usr/share/electrosense/bin/webrtc/32075/1001	0.231445	0.128906
+curl/32493/0	0	0
+/opt/venvs/electrosense-sensor-mqtt/bin/python3/30911/0	0	0
+./xmrig/30641/0	0	0
+unknown TCP/0/0	0	0
+
