@@ -6,3 +6,9 @@ not furing the attack 0:20 and 80: the results sho a slight increase of memory u
 CPU
 28.168999999999997 out of attack
 26.37616666666667 during attack CPU usage
+
+
+b8:27:eb:1a:1e:2a raspberry pi
+
+command is necessars to start and stop sensor
+systemctl restart electrosense-sensor-mqtt
